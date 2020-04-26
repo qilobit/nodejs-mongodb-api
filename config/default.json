@@ -1,0 +1,6 @@
+{
+  "jwtSecret": "mi-superse-cr3to-del-mondu",
+  "dbConfig": {
+    "connectionString": "mongodb://localhost:27017/db_api"
+  }
+}
